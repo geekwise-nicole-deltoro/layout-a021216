@@ -1,0 +1,116 @@
+html,body{
+    margin:0;
+    padding:0;
+    background-color:lightcyan;
+    font-size:62.5%;
+    box-sizing: border-box;
+    
+}
+
+body{
+    margin:0 auto;
+    padding:0 auto;
+    background-color: azure;
+    height:100%;
+    width: 90%;
+    text-align: center;
+    box-sizing: border-box;
+    
+    
+}
+
+header{
+    margin: 0 auto;
+    padding: 0 auto;
+    background-color: darkorange;
+    height:2em;
+    width:90%;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+main{
+margin:0 auto;
+padding:0 auto;
+background-color: fuchsia;
+box-sizing: border-box;
+width: 0 auto;
+height: 0 auto;
+background-color: antiquewhite;
+text-align: center
+
+}
+
+
+
+#img1{
+    margin:0 auto;
+    padding:0 auto;
+    float:none;
+    box-sizing: border-box;
+    height:50%;
+    width:50%;
+    background-color: yellow;
+    
+    
+}
+
+#text{
+    margin:0 auto;
+    padding:0 auto;
+    float:none;
+    box-sizing: border-box;
+    height:50%;
+    width:50%;
+    background-color: blueviolet
+}
+
+
+#img3{
+    margin-top:0 auto;
+    padding-top:0 auto;
+    float:right;
+    box-sizing: border-box;
+    height:70%;
+    width:50%;
+    background-color:darkblue;
+}
+
+#img4{
+    margin-top:0 auto;
+    padding-top:0 auto;
+    box-sizing: border-box;
+    height:50%;
+    width:90%
+    background-color:blue;
+}
+#text2{
+    margin-bottom:0 auto;
+    padding-bottom:0 auto;
+    float: inherit;
+    box-sizing: border-box;
+    height:auto;
+    width:0 auto;
+    background-color:hotpink;
+}
+
+
+button{
+    margin:0 auto;
+    padding:0 auto;
+    text-align:center;
+    height:2em;
+    width:60%;
+    background-color: chartreuse;
+    
+}
+
+
+footer{
+    margin:0 auto;
+    padding:0 auto;
+    height:20px;
+    width:90%;
+    text-align:center;
+    background-color: firebrick;
+}
