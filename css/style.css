@@ -23,7 +23,8 @@ header{
     margin: 0 auto;
     padding: 0 auto;
     background-color: darkorange;
-    width: 0 auto;
+    height:2em;
+    width:90%;
     box-sizing: border-box;
     text-align: center;
 }
@@ -72,7 +73,7 @@ text-align: center
     box-sizing: border-box;
     height:70%;
     width:50%;
-    background-color:darkviolet;
+    background-color:darkblue;
 }
 
 #img4{
@@ -90,7 +91,7 @@ text-align: center
     box-sizing: border-box;
     height:auto;
     width:0 auto;
-    background-color: chocolate
+    background-color:hotpink;
 }
 
 
@@ -98,8 +99,9 @@ button{
     margin:0 auto;
     padding:0 auto;
     text-align:center;
-    height:20%;
-    width:50%;
+    height:2em;
+    width:60%;
+    background-color: chartreuse;
     
 }
 
@@ -107,7 +109,7 @@ button{
 footer{
     margin:0 auto;
     padding:0 auto;
-    height:5px;
+    height:20px;
     width:90%;
     text-align:center;
     background-color: firebrick;
