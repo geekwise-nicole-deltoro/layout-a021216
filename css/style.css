@@ -10,7 +10,7 @@ html,body{
 body{
     margin:0 auto;
     padding:0 auto;
-    background-color: azure;
+    background-color:azure;
     height:100%;
     width: 90%;
     text-align: center;
@@ -22,7 +22,7 @@ body{
 header{
     margin: 0 auto;
     padding: 0 auto;
-    background-color: darkorange;
+    background-color:darkorange;
     height:2em;
     width:90%;
     box-sizing: border-box;
@@ -32,12 +32,11 @@ header{
 main{
 margin:0 auto;
 padding:0 auto;
-background-color: fuchsia;
+background-color:fuchsia;
 box-sizing: border-box;
 width: 0 auto;
 height: 0 auto;
-background-color: antiquewhite;
-text-align: center
+text-align: center;
 
 }
 
@@ -62,7 +61,7 @@ text-align: center
     box-sizing: border-box;
     height:50%;
     width:50%;
-    background-color: blueviolet
+    background-color:blueviolet;
 }
 
 
