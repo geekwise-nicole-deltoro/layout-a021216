@@ -1,7 +1,7 @@
 html,body{
     margin:0;
     padding:0;
-    background-color:lightcyan;
+    background-color: lightcyan;
     font-size:62.5%;
     box-sizing: border-box;
     
@@ -10,7 +10,7 @@ html,body{
 body{
     margin:0 auto;
     padding:0 auto;
-    background-color:azure;
+    background-color: azure;
     height:100%;
     width: 90%;
     text-align: center;
